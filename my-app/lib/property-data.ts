@@ -1,4 +1,49 @@
-export const POPULAR_CONDOS = [
+export interface NearbyUniversity {
+  name: string;
+  distance: string;
+}
+
+export interface Transit {
+  name: string;
+  distance: string;
+}
+
+export interface CondoProperty {
+  id: number;
+  name: string;
+  nameEn: string;
+  location: string;
+  locationShort: string;
+  price: string;
+  priceUnit: string;
+  image: string;
+  galleryImages: string[];
+  description: string;
+  phone: string;
+  nearbyUniversities: NearbyUniversity[];
+  transit: Transit[];
+  nearbyPlaces: string[];
+  facilities: string[];
+}
+
+export interface ApartmentProperty {
+  id: number;
+  name: string;
+  location: string;
+  locationFull: string;
+  priceMonth: string;
+  priceDay: string;
+  image: string;
+  galleryImages: string[];
+  description: string;
+  phone: string;
+  nearbyUniversities: NearbyUniversity[];
+  transit: Transit[];
+  nearbyPlaces: string[];
+  facilities: string[];
+}
+
+export const POPULAR_CONDOS: CondoProperty[] = [
   {
     id: 1,
     name: "Kave Town Space",
@@ -108,7 +153,7 @@ export const POPULAR_CONDOS = [
   },
 ]
 
-export const DAILY_APARTMENTS = [
+export const DAILY_APARTMENTS: ApartmentProperty[] = [
   {
     id: 101,
     name: "บ้านเมฆหมอก Service Apartment",
