@@ -161,10 +161,9 @@ export const DAILY_APARTMENTS: ApartmentProperty[] = [
     locationFull: "ซอยสุขุมวิท 64 (พญาไท)",
     priceMonth: "6,000 - 6,500",
     priceDay: "650",
-    image:
-      "/images/e0-b8-9a-e0-b9-89-e0-b8-b2-e0-b8-99-e0-b9-80-e0-b8-a1-e0-b8-86-e0-b8-ab-e0-b8-a1-e0-b8-ad-e0-b8-81-20service-20apartment.webp",
+    image: "/images/baan-mek-mok-service-apartment.webp",
     galleryImages: [
-      "/images/e0-b8-9a-e0-b9-89-e0-b8-b2-e0-b8-99-e0-b9-80-e0-b8-a1-e0-b8-86-e0-b8-ab-e0-b8-a1-e0-b8-ad-e0-b8-81-20service-20apartment.webp",
+      "/images/baan-mek-mok-service-apartment.webp",
       "/service-apartment.jpg",
       "/apartment-living.jpg",
       "/modern-kitchen.jpg",
@@ -193,10 +192,9 @@ export const DAILY_APARTMENTS: ApartmentProperty[] = [
     locationFull: "ถนนรามคำแหง 85 (บดินทร์บางขัน)",
     priceMonth: "3,500",
     priceDay: "400 - 480",
-    image:
-      "/images/e0-b8-94-e0-b8-b5-e0-b8-94-e0-b8-b5-20-e0-b8-ad-e0-b8-9e-e0-b8-b2-e0-b8-a3-e0-b9-8c-e0-b8-97-e0-b9-80-e0-b8-a1-e0-b9-89-e0-b8-99-e0-b8-97-e0-b9-8c.webp",
+    image: "/images/dd-apartment.webp",
     galleryImages: [
-      "/images/e0-b8-94-e0-b8-b5-e0-b8-94-e0-b8-b5-20-e0-b8-ad-e0-b8-9e-e0-b8-b2-e0-b8-a3-e0-b9-8c-e0-b8-97-e0-b9-80-e0-b8-a1-e0-b9-89-e0-b8-99-e0-b8-97-e0-b9-8c.webp",
+      "/images/dd-apartment.webp",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
@@ -225,10 +223,9 @@ export const DAILY_APARTMENTS: ApartmentProperty[] = [
     locationFull: "มีนบุรี",
     priceMonth: "4,100 - 10,900",
     priceDay: "800",
-    image:
-      "/images/e0-b8-a1-e0-b8-b5-e0-b8-99-e0-b9-80-e0-b8-a3-e0-b8-aa-e0-b8-aa-e0-b8-b4-e0-b9-80-e0-b8-94-e0-b8-99-e0-b8-8b-e0-b9-8c.webp",
+    image: "/images/mean-residence.webp",
     galleryImages: [
-      "/images/e0-b8-a1-e0-b8-b5-e0-b8-99-e0-b9-80-e0-b8-a3-e0-b8-aa-e0-b8-aa-e0-b8-b4-e0-b9-80-e0-b8-94-e0-b8-99-e0-b8-8b-e0-b9-8c.webp",
+      "/images/mean-residence.webp",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
       "/placeholder.svg?height=400&width=600",
